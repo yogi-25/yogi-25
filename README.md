@@ -1,6 +1,6 @@
 ### Hey :wave:, I am Yogita Misal:
 
-- :writing_hand: I am a third year Undergrad pursuing B.E in Information Technology at PES Modern college of engineering Pune.
+- :writing_hand: I am a final year Undergrad pursuing B.E in Information Technology at PES Modern college of engineering Pune.
 - :seedling:	I am currently practising javascript and React.js
 - :hourglass: I believe in "The problem is not solved unless it's done in the most optimized way." 
 - :heartbeat: I am passionate about coding.
