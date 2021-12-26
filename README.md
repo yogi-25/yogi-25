@@ -39,12 +39,12 @@
 
 **I am a Final Year Student Pursuing Bachelor of engineering in Information Technology at PES Modern college of engineering Pune-05. Programmer who codes in Java. I am good at analysing and problem solving. My Objective is to build a career in an organization which can provide me with the opportunity to apply my skills for growth and profitability of the organization as well as to grow as an individual.
    I am a Dedicated and hardworking member of the team.**
-🌱 I’m currently learning Best Practices for DSA and CP.
-👯 I’m looking to collaborate on any web development Project.
-💬 Ask me about Java.
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yogita-misal-a42b48191/)
-😄 Pronouns: You can give one.
-⚡ Fun fact: I can work without music.  
+**🌱 I’m currently learning Best Practices for DSA and CP.**
+**👯 I’m looking to collaborate on any web development Project.**
+**💬 Ask me about Java.**
+**📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yogita-misal-a42b48191/)**
+**😄 Pronouns: You can give one.**
+**⚡ Fun fact: I can work without music.**
    
  <h1>Technical Skills 🛠</h1>
 
@@ -71,8 +71,8 @@
  
    
  <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruta-07&layout=compact&theme=midnight-purple"></img>
-<img src="https://github-readme-stats.vercel.app/api?username=amruta-07&show_icons=true&theme=cobalt"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogi-25&layout=compact&theme=midnight-purple"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=yogi-25&show_icons=true&theme=cobalt"></img>
 </div>  
   
   <div align="center">
@@ -82,7 +82,7 @@
 <div align="center">
 <img src="https://img.shields.io/github/followers/amruta-07.svg?style=social&label=Follow"></img>
 
-<img src="https://gpvc.arturio.dev/amruta-07"></img>
+<img src="https://gpvc.arturio.dev/yogi-25"></img>
 </div>
 
 ---
