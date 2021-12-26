@@ -37,7 +37,7 @@
 - ⚡ Fun fact: I can work without music.
 -->  
 
-**I am a Final Year Student Pursuing Bachelor of engineering in Information Technology at PES Modern college of engineering Pune-05. Programmer who codes in Java. I am good at analysing and problem solving. My Objective is to build a career in an organization which can provide me with the opportunity to apply my skills for growth and profitability of the organization as well as to grow as an individual.
+**I am a Final Year Student Pursuing Bachelor of engineering in Information Technology at PES Modern college of engineering Pune-05.  I love ❤ exploring new technologies and leveraging them to solve real life problems.My Objective is to build a career in an organization which can provide me with the opportunity to apply my skills for growth and profitability of the organization as well as to grow as an individual.
    I am a Dedicated and hardworking member of the team.**
 **🌱 I’m currently learning Best Practices for DSA and CP.**
 **👯 I’m looking to collaborate on any web development Project.**
