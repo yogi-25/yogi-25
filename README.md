@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Yogita Misal<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<h1 align="center">I am a Student Developer❤ </h1>
+<h1 align="center">I am a Student Developer </h1>
 
 --- 
 
